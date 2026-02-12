@@ -195,7 +195,8 @@ body{
     margin-top: -1rem;
 }
 .btn-box .btn{
-    width: 90px;
+    padding: 8px 18px;
+    width: auto;
     height: 35px;
     color: #aba79f;
     background: linear-gradient(to right, #0a0708);

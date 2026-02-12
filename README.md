@@ -4,7 +4,7 @@ A modern and fully responsive Profile Card built using **HTML5** and **CSS3**.
 This project showcases a personal profile with dropdown menus, animated elements, social media links, and a contact button.
 
 ## 🚀 Live Demo
-👉 (Add your Vercel deployed link here)
+👉 https://profile-card-taupe-rho.vercel.app/
 
 ---
 
